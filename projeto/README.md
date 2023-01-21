@@ -7,7 +7,7 @@ NLW é um evento exclusivo e gratuito, promovido pela Rocketseat para ensino de 
 <p align = "center">
     <a href = '#-tecnologias'>Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href = '#-projeto'>Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
-    <a href = '#-layout'>Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
+    <a href = '#-layout'>Layout</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <p align = "center">
@@ -27,8 +27,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Habits é um sistema para ajudar usuários a rastrear seus hábitos.
 
+- [Visite o projeto online](https://Ollie570.github.io/NWL-Setup-Explorer)
+
 ## 🎨 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/QQQDayWuvsgDn5q9urKgnz/Habits-(e)-(Community)?node-id=75%3A128&t=p3aAzGIWqRNKNpFa-0). É necessário ter conta no [FIGMA](https://figma.com) para acessá-lo.
+
+
 
 Projeto realizado pela Rocketseat
